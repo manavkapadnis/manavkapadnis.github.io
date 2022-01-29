@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Manav’s Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,60 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Third-year Undergraduate student at the Department of Electrical Engineering , Indian Institute of Technology Kharagpur. At IIT Kharagpur, I am part of the Transparency in AI and Language (TrAIL) Lab under the supervision of [Prof. Somak Aditya](https://scholar.google.com/citations?user=2shiHpwAAAAJ&hl=en).
+<!-- I was fortunate to intern at Adobe Research, India. I was also selected for IUSSTF-Viterbi program and got the oppotunity to intern at INK-Lab, University of Southern California. -->
 
-A data-driven personal website
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+```html
+<table width="100%" align="center">
+          <tr>
+            <td>
+              <heading>News</heading>
+                <hr/>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" align="center">
+          <tr>
+            <td width="10%">&nbsp;&nbsp;&nbsp;&nbsp; [Jan 22]</td>
+            <td width="90%">Started working as a <b><u>six month research intern</u></b> at <a href="https://www.microsoft.com/en-us/research/group/prose/" > PROSE, Microsoft Research</a></td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;&nbsp;&nbsp;&nbsp; [Jan 22]</td>
+            <td width="90%">Selected to attend <a href="https://sites.google.com/view/researchweek2022" >Research Week with Google</a> from <b><u>8 - 11 Feb, 2022</u></b></td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;&nbsp;&nbsp;&nbsp; [Dec 21]</td>
+            <td width="90%">Received the <a href="http://www1.iitkgp.ac.in/topfiles/sric" >Prof. J.C. Ghosh Memorial Endowment Prize </a> for securing highest CGPA at the end of VI semester</td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;&nbsp;&nbsp;&nbsp; [Nov 21]</td>
+            <td width="90%">Member of coding team (at IIT Kharagpur) responsible for organizing a pan-India engineering entrance exam</td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;&nbsp;&nbsp;&nbsp; [Sep 21]</td>
+            <td width="90%"> One paper accepted in the <a href="https://2021.argmining.org/" >8th workshop on ArgumentMining at EMNLP 2021</a></td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;&nbsp;&nbsp;&nbsp; [May 21]</td>
+            <td width="90%">Started working as research intern at <a href="https://research.adobe.com/careers/bangalore/" >Adobe Research, India</a> on Topological Data Analysis</td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;&nbsp;&nbsp;&nbsp; [May 21]</td>
+            <td width="90%">Accepted in IUSSTF-Viterbi program to intern at <a href="https://inklab.usc.edu/" >INK-Lab</a> under <a href="https://scholar.google.com/citations?user=_moJlrIAAAAJ&hl=en" > Prof. Xiang Ren</a></td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;&nbsp;&nbsp;&nbsp; [Dec 20]</td>
+            <td width="90%">One paper accepted in the <a href="https://computingconf.com/2020/" >10th International Advance Computing Conference (IACC 2020)</a></td>
+          </tr>
+          <tr>
+            <td width="10%">&nbsp;&nbsp;&nbsp;&nbsp; [Jun 19]</td>
+            <td width="90%">Received the <a href="http://www1.iitkgp.ac.in/topfiles/sric" > Technology Alumni Association (Delhi Chapter) Award </a> for securing highest CGPA at the end of II semester</td>
+          </tr>
+        </table>
+        <hr/>
+```
 
 Getting started
 ======
