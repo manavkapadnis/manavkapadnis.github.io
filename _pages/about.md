@@ -13,7 +13,7 @@ I am a Third-year Undergraduate student at the Department of Electrical Engineer
 
 News
 ======
-```html
+
 <table width="100%" align="center">
           <tr>
             <td>
@@ -61,7 +61,7 @@ News
           </tr>
         </table>
         <hr/>
-```
+
 
 Getting started
 ======
