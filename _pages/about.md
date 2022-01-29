@@ -17,7 +17,7 @@ News
 <table width="100%" align="center">
           <tr>
             <td>
-              <heading>News</heading>
+              <heading>Updates</heading>
                 <hr/>
             </td>
           </tr>
