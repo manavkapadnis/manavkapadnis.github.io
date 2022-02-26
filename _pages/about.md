@@ -14,7 +14,9 @@ I am a Third-year Undergraduate student at the Department of Electrical Engineer
 News
 ======
 
+
 - [Jan 22] Started working as a research associate at TrAIL Lab, IIT Kharagpur
+- [Dec 21] Accepted in Mitacs Globalink Research Internship program to intern at University of Alberta under [Prof. Lili Mou](https://apps.ualberta.ca/directory/person/lmou)
 - [Dec 21] One paper accepted in the [Scientific Document Understanding Workshop at AAAI 2022](https://sites.google.com/view/sdu-aaai22/home)
 - [Sept 21] One paper accepted in the [The 28th International Conference on Neural Information Processing (ICONIP2021)](https://iconip2021.apnns.org/)
 - [Sept 21] One paper accepted in the [8th workshop on ArgumentMining at EMNLP 2021](https://2021.argmining.org/)
