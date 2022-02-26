@@ -6,8 +6,8 @@ main:
   #- title: "Talks"
   #  url: /talks/    
 
-  - title: "Research Experience"
-    url: /teaching/    
+  #- title: "Research Experience"
+  #  url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /files/Manav_Kapadnis_Resume.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
