@@ -17,9 +17,14 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2022
 
+* **Alzheimer’s disease detection using artificial intelligence**<br/>
+Abdulhamit Subasi, Manav Nitin Kapadnis, and Ayse Kosal Bulbul.<br>
+Book - **Augmenting Neurological Disorder Prediction and Rehabilitation Using Artificial Intelligence** <br> [[Paper](https://www.sciencedirect.com/science/article/pii/B9780323900379000114)] [[Code](https://github.com/manavkapadnis/Alzheimer-s-Classification--University-of-Turku-Finland)] 
+
 * **Fine-grained Intent Classification in the Legal Domain** <br/>
 Ankan Mullick\*, Abhilash Nandy\*, Manav Nitin Kapadnis\*, Sohan Patnaik, and R Raghav.<br> 
-In the Scientific Document Understanding workshop in Thirty-Sixth AAAI Conference on Artificial Intelligence (**AAAI 2022**).<br> [[Paper And Code will be made public soon]()] 
+In the Scientific Document Understanding workshop in Thirty-Sixth AAAI Conference on Artificial Intelligence (**AAAI 2022**).<br> [[Paper](https://ix.cs.uoregon.edu/~apouranb/sdu22/SDUAAAI22_paper_27.pdf)] [[Code will be made available soon.]()]  
+
 
 ### 2021
 
