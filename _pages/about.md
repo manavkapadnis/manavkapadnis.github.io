@@ -14,7 +14,7 @@ I am a Third-year Undergraduate student at the Department of Electrical Engineer
 News
 ======
 
-
+- [April 22] One paper accepted in the [Language Resources and Evaluation Conference (LREC 2022)](https://lrec2022.lrec-conf.org/en/)
 - [Jan 22] Started working as a research associate at TrAIL Lab, IIT Kharagpur
 - [Dec 21] Accepted in Mitacs Globalink Research Internship program to intern at University of Alberta under [Prof. Lili Mou](https://apps.ualberta.ca/directory/person/lmou)
 - [Dec 21] One paper accepted in the [Scientific Document Understanding Workshop at AAAI 2022](https://sites.google.com/view/sdu-aaai22/home)
@@ -28,4 +28,9 @@ News
 Research Interests
 ======
 
-My research interest lie majorly in ...
+My research interest lie majorly in the following broad domains:
+- Common Sense Reasoning
+- Text Summarization
+- Sentiment Analysis
+- Text Generation
+
