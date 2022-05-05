@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Third-year Undergraduate student at the Department of Electrical Engineering , Indian Institute of Technology Kharagpur. At IIT Kharagpur, I am part of the Transparency in AI and Language (TrAIL) Lab under the supervision of [Prof. Somak Aditya](https://scholar.google.com/citations?user=2shiHpwAAAAJ&hl=en).
+I am a Third-year Undergraduate student at the Department of Electrical Engineering , Indian Institute of Technology Kharagpur.
 <!-- I was fortunate to intern at Adobe Research, India. I was also selected for IUSSTF-Viterbi program and got the oppotunity to intern at INK-Lab, University of Southern California. -->
 
 News
