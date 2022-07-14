@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Third-year Undergraduate student at the Department of Electrical Engineering , Indian Institute of Technology Kharagpur.
+I am a Fourth-year Undergraduate student at the Department of Electrical Engineering , Indian Institute of Technology Kharagpur. I am also an undergraduate researcher at the  [Complex Networks Research Group](https://cnerg-iitkgp.github.io/) IIT Kharagpur under the supervision of  [Prof. Niloy Ganguly](https://cse.iitkgp.ac.in/~pawang/) and [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/) .
 <!-- I was fortunate to intern at Adobe Research, India. I was also selected for IUSSTF-Viterbi program and got the oppotunity to intern at INK-Lab, University of Southern California. -->
 
 News
 ======
-
+- [May 22] Received full Talent Bursary to attend Amii AI Week 2022 !!
 - [April 22] One paper accepted in the [Language Resources and Evaluation Conference (LREC 2022)](https://lrec2022.lrec-conf.org/en/)
 - [Jan 22] Started working as a research associate at TrAIL Lab, IIT Kharagpur
 - [Dec 21] Accepted in Mitacs Globalink Research Internship program to intern at University of Alberta under [Prof. Lili Mou](https://apps.ualberta.ca/directory/person/lmou)
