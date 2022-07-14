@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Fourth-year Undergraduate student at the Department of Electrical Engineering , Indian Institute of Technology Kharagpur. I am also an undergraduate researcher at the  [Complex Networks Research Group](https://cnerg-iitkgp.github.io/) IIT Kharagpur under the supervision of  [Prof. Niloy Ganguly](https://cse.iitkgp.ac.in/~pawang/) and [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/) .
+I am a Fourth-year Undergraduate student at the Department of Electrical Engineering , Indian Institute of Technology Kharagpur. I am also an undergraduate researcher at the  [Complex Networks Research Group](https://cnerg-iitkgp.github.io/), IIT Kharagpur under the supervision of  [Prof. Niloy Ganguly](https://cse.iitkgp.ac.in/~pawang/) and [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/) .
 <!-- I was fortunate to intern at Adobe Research, India. I was also selected for IUSSTF-Viterbi program and got the oppotunity to intern at INK-Lab, University of Southern California. -->
 
 News
