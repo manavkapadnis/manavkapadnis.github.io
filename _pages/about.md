@@ -29,8 +29,8 @@ Research Interests
 ======
 
 My research interest lie majorly in the following broad domains:
-- Common Sense Reasoning
-- Text Summarization
+- Natural Language Inference
+- Stance Detection
 - Sentiment Analysis
-- Text Generation
+- Social Media Mining
 
