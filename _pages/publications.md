@@ -17,6 +17,11 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2022
 
+* **An Evaluation Framework for Legal Document Summarization**<br/>
+Ankan Mullick, Abhilash Nandy, Manav Nitin Kapadnis, Sohan Patnaik, R Raghav, and Roshni Kar.<br>
+In the 13th Edition of its Language Resources and Evaluation Conference (**LREC 2022**).<br> [[Paper](https://arxiv.org/abs/2205.08478)] [[Code](https://github.com/manavkapadnis/LegalEvaluation_LREC2022)] 
+
+
 * **Alzheimer’s disease detection using artificial intelligence**<br/>
 Abdulhamit Subasi, Manav Nitin Kapadnis, and Ayse Kosal Bulbul.<br>
 Book - **Augmenting Neurological Disorder Prediction and Rehabilitation Using Artificial Intelligence** <br> [[Paper](https://www.sciencedirect.com/science/article/pii/B9780323900379000114)] [[Code](https://github.com/manavkapadnis/Alzheimer-s-Classification--University-of-Turku-Finland)] 
