@@ -13,6 +13,7 @@ I am a Fourth-year Undergraduate student at the Department of Electrical Enginee
 
 News
 ======
+- [Aug 22] One system description paper accepted in the [Social Media Mining for Health Applications Shared Task (COLING 2022)](https://healthlanguageprocessing.org/smm4h-2022/))
 - [May 22] Received full Talent Bursary to attend Amii AI Week 2022 !!
 - [April 22] One paper accepted in the [Language Resources and Evaluation Conference (LREC 2022)](https://lrec2022.lrec-conf.org/en/)
 - [Jan 22] Started working as a research associate at TrAIL Lab, IIT Kharagpur
@@ -30,7 +31,7 @@ Research Interests
 
 My research interest lie majorly in the following broad domains:
 - Natural Language Inference
-- Stance Detection
-- Sentiment Analysis
+- Language Modelling
 - Social Media Mining
+- Multimodal Deep Learning
 
