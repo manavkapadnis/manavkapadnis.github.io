@@ -17,6 +17,10 @@ Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
 
 ### 2022
 
+* **Leveraging Pre-trained Language Models for Stance And Premise Classification**<br/>
+Millon Madhur Das, Archit Mangrulkar, Ishan Manchanda, Manav Nitin Kapadnis, and Sohan Patnaik.<br>
+the 7th Social Media Mining for Health Applications (#SMM4H) workshop at **COLING** 2022.<br> [[Paper](https://aclanthology.org/2022.smm4h-1.42/)] [[Code](https://github.com/architmang/enolp_musk-SMM4H_COLING2022)] 
+
 * **An Evaluation Framework for Legal Document Summarization**<br/>
 Ankan Mullick, Abhilash Nandy, Manav Nitin Kapadnis, Sohan Patnaik, R Raghav, and Roshni Kar.<br>
 In the 13th Edition of its Language Resources and Evaluation Conference (**LREC 2022**).<br> [[Paper](https://arxiv.org/abs/2205.08478)] [[Code](https://github.com/manavkapadnis/LegalEvaluation_LREC2022)] 
