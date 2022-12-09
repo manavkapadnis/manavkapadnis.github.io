@@ -13,6 +13,8 @@ I am a Fourth-year Undergraduate student at the Department of Electrical Enginee
 
 News
 ======
+
+- [Dec 22] Joined Sony Research as a Data Science Intern !!
 - [Aug 22] One system description paper accepted in the [Social Media Mining for Health Applications Shared Task (COLING 2022)](https://healthlanguageprocessing.org/smm4h-2022/))
 - [May 22] Received full Talent Bursary to attend Amii AI Week 2022 !!
 - [April 22] One paper accepted in the [Language Resources and Evaluation Conference (LREC 2022)](https://lrec2022.lrec-conf.org/en/)
