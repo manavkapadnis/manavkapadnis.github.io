@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Fifth-year Dual Degree Undergraduate student at the Department of Electrical Engineering , Indian Institute of Technology Kharagpur. I am also an undergraduate researcher at the  [Complex Networks Research Group](https://cnerg-iitkgp.github.io/), IIT Kharagpur under the supervision of  [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/) and [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/) . I am currently working on Master's Thesis in the field of Vision-Language Pretraining for Medical VQA. If you have any ideas that you would like to collaborate, hit me up!
+I am a Fifth-year Dual Degree Undergraduate student at the Department of Electrical Engineering , Indian Institute of Technology Kharagpur. I am also an undergraduate researcher at the  [Complex Networks Research Group](https://cnerg-iitkgp.github.io/), IIT Kharagpur under the supervision of  [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/) and [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/) . I am currently working on Master's Thesis in the field of Vision-Language Pretraining for Radiology Report Generation. If you have any ideas that you would like to collaborate, hit me up!
 <!-- I was fortunate to intern at Adobe Research, India. I was also selected for IUSSTF-Viterbi program and got the oppotunity to intern at INK-Lab, University of Southern California. -->
 
 News
 ======
-- [August 23] Started working on Master's Thesis on VLP for Medical VQA.
+- [October 23] My [Bachelor's Thesis](https://github.com/manavkapadnis/CLMSM_EMNLP_2023) got accepted in EMNLP Findings 2023 !!!
+- [August 23] Started working on Master's Thesis on VLP for Radiology Report Generation.
 - [June 23] Joined [Articulab Group](http://articulab.hcii.cs.cmu.edu/onboarding/) at Inria Paris as a Summer Intern!!
 - [Dec 22] Joined Sony Research as a Data Science Intern !!
 - [Aug 22] One system description paper accepted in the [Social Media Mining for Health Applications Shared Task (COLING 2022)](https://healthlanguageprocessing.org/smm4h-2022/))
