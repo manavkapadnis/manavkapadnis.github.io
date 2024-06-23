@@ -8,11 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Fifth-year Dual Degree Undergraduate student at the Department of Electrical Engineering , Indian Institute of Technology Kharagpur. I am also an undergraduate researcher at the  [Complex Networks Research Group](https://cnerg-iitkgp.github.io/), IIT Kharagpur under the supervision of  [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/) and [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/) . I am currently working on Master's Thesis in the field of Vision-Language Pretraining for Radiology Report Generation. If you have any ideas that you would like to collaborate, hit me up!
+Hello ! I’m currently in my first year of graduate studies, pursuing a Master’s degree in Intelligent Information Systems (MIIS) at the Language Technologies Institute within the School of Computer Science at Carnegie Mellon University.
+
+Before CMU, I completed an Integrated Dual Degree(B.Tech+M.Tech) from the Department of Electrical Engineering , Indian Institute of Technology Kharagpur. I am also worked as an undergraduate researcher at the  [Complex Networks Research Group](https://cnerg-iitkgp.github.io/), IIT Kharagpur under the supervision of  [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/) and [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/) . If you have any ideas that you would like to collaborate, hit me up!
 <!-- I was fortunate to intern at Adobe Research, India. I was also selected for IUSSTF-Viterbi program and got the oppotunity to intern at INK-Lab, University of Southern California. -->
 
 News
 ======
+- [May 24] Our work [***FastDoc***: Domain-Specific Fast Continual Pre-training Technique using Document-Level Metadata and Taxonomy](https://openreview.net/forum?id=RA4yRhjoXw) was accepted in the Transactions of Machine Learning (TMLR) Journal!!!
+- [March 24] My first part of [Master's Thesis](https://arxiv.org/abs/2404.17912) got accepted in the 6th Clinical Natural Language Processing Workshop
+At NAACL 2024 !
+- [December 23] Attended EMNLP’23 in Singapore.
 - [October 23] My [Bachelor's Thesis](https://github.com/manavkapadnis/CLMSM_EMNLP_2023) got accepted in EMNLP Findings 2023 !!!
 - [August 23] Started working on Master's Thesis on VLP for Radiology Report Generation.
 - [June 23] Joined [Articulab Group](http://articulab.hcii.cs.cmu.edu/onboarding/) at Inria Paris as a Summer Intern!!
@@ -34,8 +40,8 @@ Research Interests
 ======
 
 My research interest lie majorly in the following broad domains:
-- Natural Language Inference
-- Language Modelling
-- Social Media Mining
-- Multimodal Deep Learning
+- Multimodal NLP
+- Multi-Agent Interaction based task completion
+- Conversational Grounding in multi-turn setting
+- Representational Learning
 
