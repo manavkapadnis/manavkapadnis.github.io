@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Manav Nitin Kapadnis"
-  avatar           : "img_website.jpg"
-  bio              : "EECS Fifth Year Undegraduate Student @ IIT Kharagpur"
-  location         : "IIT Kharagpur, West Bengal, India"
+  avatar           : "id_image.jpeg"
+  bio              : "MIIS CMU LTI | EECS @ IIT Kharagpur"
+  location         : "Carnegie Mellon University, Pennsylvania, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=L7KLra8AAAAJ&hl=en"
@@ -102,7 +102,7 @@ author:
   instagram        : "iamanavk"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/manav-nitin-kapadnis/"
+  linkedin         : "manav-nitin-kapadnis/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
